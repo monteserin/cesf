@@ -186,3 +186,11 @@ abr. 06, 2018 20:25:03.08 [Child 1316, Chrome_ChildThread] WARNING: pipe error: 
 may. 30, 2018 16:40:44.09 NEW SESSION
 may. 30, 2018 16:40:44.09 [Child 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 may. 30, 2018 16:40:44.09 [Child 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+may. 30, 2018 18:11:29.39 [Parent 3156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+may. 30, 2018 18:11:29.40 [Child 3460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+may. 30, 2018 18:11:29.40 [Child 3460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+may. 30, 2018 18:11:30.40 [Parent 3156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+may. 30, 2018 18:11:30.41 [Child 4544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+may. 30, 2018 18:55:36.58 [Parent 3156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+may. 30, 2018 18:55:36.59 [Child 4824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+may. 30, 2018 18:55:36.59 [Child 4824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

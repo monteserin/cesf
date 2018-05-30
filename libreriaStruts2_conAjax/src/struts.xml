@@ -1,0 +1,34 @@
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+	<package name="com.pablomonteserin.action" extends="struts-default">
+		<action name="altaLibro" class="com.pablomonteserin.action.LibroAction" method="insertar">
+			<result>index.jsp</result>
+		</action>
+		<action name="consultaLibros" class="com.pablomonteserin.action.LibroAction" method="consultaLibros">
+			<result>consulta.jsp</result>
+		</action>
+		
+				<action name="bajaLibro" class="com.pablomonteserin.action.LibroAction" method="consultaLibros">
+			<result>baja.jsp</result>
+		</action>
+					<action name="eliminaLibro" class="com.pablomonteserin.action.LibroAction" method="eliminaLibro">
+			<result>index.jsp</result>
+		</action>
+		
+					<action name="modificacion" class="com.pablomonteserin.action.LibroAction" method="consultaLibros">
+			<result>modificacion.jsp</result>
+		</action>	
+		
+					<action name="modificaLibro" class="com.pablomonteserin.action.LibroAction" method="modificaLibro">
+			<result>index.jsp</result>
+		</action>
+		
+		<action name="compruebaSiExiste" class="com.pablomonteserin.action.LibroAction" method="compruebaSiExiste">
+			<result>ajax.jsp</result>
+		</action>
+		
+	</package>
+</struts>

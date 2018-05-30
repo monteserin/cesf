@@ -8594,3 +8594,18 @@ org.eclipse.recommenders.utils.Logs$LogTraceException
 !STACK 0
 java.lang.NullPointerException: Job of type org.eclipse.wst.server.ui.internal.LaunchClientJob returned no status.
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:76)
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-30 18:38:03.817
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-05-30 18:38:03.818
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-05-30 18:47:46.682
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-05-30 18:48:43.779
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-05-30 18:49:45.498
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
